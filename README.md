@@ -1,6 +1,12 @@
 ## Hi there 👋
 
-<!--
+👩‍💻 Farkhanda Haider  
+
+A curious mind exploring the world of technology.  
+I believe in learning by doing, building real projects, and growing every day.  
+
+✨ Turning ideas into reality through code  
+🚀 Progress over perfection<!--
 **farkhandahaider/farkhandahaider** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
